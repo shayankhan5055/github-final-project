@@ -1,2 +1,3 @@
 # repo1
-Making changes to README
+
+This is a Simple Interest Calculator

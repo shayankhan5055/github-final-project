@@ -4,6 +4,9 @@
 
 # Do not use this in production. Sample purpose only.
 
+# Author: shayankhan5055 (Shayan Khan)
+# Additional Authors:
+# A name
 # Input:
 # p, principal amount
 # t, time period in years
